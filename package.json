@@ -1,0 +1,21 @@
+{
+  "name": "random-str-msg-ef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efranco89/random-str-msg-ef.git"
+  },
+  "keywords": [],
+  "author": "Enrique Franco <luisfranco@gmail.com>",
+  "license": "MIT",
+  "homepage": "git+https://github.com/efranco89/random-str-msg-ef#readme",
+  "bin": {
+    "random-str-msg-ef": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
